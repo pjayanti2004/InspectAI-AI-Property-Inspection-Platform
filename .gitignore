@@ -1,0 +1,113 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Linting & Type Checking
+.mypy_cache/
+.ruff_cache/
+
+# Streamlit
+.streamlit/
+.stcache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Uploads
+streamlit_app/uploads/*
+!streamlit_app/uploads/.gitkeep
+
+# Assets (generated)
+*.png
+*.jpg
+*.jpeg
+!streamlit_app/assets/images/logo.png
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Runtime / generated files
+*.log
+*.jsonl
+fuse_runtime_log.txt
+trace_pipeline.jsonl
+upload_pipeline_trace.py
+
+# Generated debug/output
+cv_debug_output/
+logs/
+
+# Local uploads
+streamlit_app/uploads/*
+!streamlit_app/uploads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

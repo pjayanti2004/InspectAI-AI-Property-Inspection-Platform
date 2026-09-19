@@ -1,0 +1,16 @@
+# ── InspectAI Development Dependencies ─────────────────────────────────────
+# Install with: pip install -r requirements-dev.txt
+
+# Testing
+pytest==9.1.1
+pytest-cov==7.1.0
+
+# Linting & Formatting
+ruff==0.15.22
+black==26.5.1
+
+# Type Checking
+mypy==2.3.0
+
+# Pre-commit Hooks
+pre-commit==4.6.0

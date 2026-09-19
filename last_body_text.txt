@@ -1,0 +1,245 @@
+
+    
+    keyboard_double_arrow_left
+    🔍
+    
+        InspectAI
+    
+    
+        Inspect Smarter. Repair Faster.
+    
+Navigation🏠  Dashboard📊  Analytics➕  New Inspection📋  History📑  Reports⚙️  Settingsℹ️  About
+    
+        InspectAI v0.1.0
+        UI Foundation Phase
+    
+Deploy
+    
+        
+            Welcome back, User 👋
+        
+        
+            Here's an overview of your inspection activity.
+        
+    
+    
+        
+            Wednesday, July 29, 2026
+        
+    
+
+    
+    📋
+    128
+    Total Inspections
+    
+        ↗ +12%
+    
+
+    
+    🏠
+    45
+    Properties
+    
+        ↗ +3
+    
+
+    
+    ⚠️
+    8
+    Critical Issues
+    
+        ↘ -2
+    
+
+    
+    📑
+    96
+    Reports Generated
+    
+        ↗ +18%
+    
+
+    ⚡ Quick Actions
+
+    
+        ➕
+    
+    Start New Inspection
+    Upload property images for AI analysis
+Start New Inspection
+    
+        📋
+    
+    View History
+    Browse past inspection reports
+View History
+    
+        📑
+    
+    Reports
+    Generate and export inspection reports
+Reports
+    
+        ⚙️
+    
+    Settings
+    Manage your preferences and account
+Settings
+    📋 Recent Activity
+
+    
+        
+            INS-2026-0042
+            42 Maple Street, Apt 3B
+        
+        
+            Completed
+        
+    
+    
+        
+            Apartment
+            •
+            2026-07-14
+            •
+            3 images
+        
+    
+    
+        
+            ● 1 Critical
+            ● 1 High
+            ● 2 Med
+            ● 1 Low
+        
+        
+            68/100
+        
+    
+View Report
+    
+        
+            INS-2026-0040
+            120 Pine Road, Unit 12
+        
+        
+            Review
+        
+    
+    
+        
+            Commercial
+            •
+            2026-07-10
+            •
+            8 images
+        
+    
+    
+        
+            ● 2 Critical
+            ● 2 High
+            ● 2 Med
+            ● 1 Low
+        
+        
+            45/100
+        
+    
+View Report
+    
+        
+            INS-2026-0038
+            77 Birch Street, Office 5B
+        
+        
+            Completed
+        
+    
+    
+        
+            Commercial
+            •
+            2026-07-05
+            •
+            6 images
+        
+    
+    
+        
+            ● 1 Critical
+            ● 1 High
+            ● 1 Med
+            ● 1 Low
+        
+        
+            58/100
+        
+    
+View Report
+    
+        
+            INS-2026-0041
+            18 Oak Avenue, Villa 7
+        
+        
+            Completed
+        
+    
+    
+        
+            Villa
+            •
+            2026-07-12
+            •
+            5 images
+        
+    
+    
+        
+            ● 0 Critical
+            ● 2 High
+            ● 1 Med
+            ● 0 Low
+        
+        
+            82/100
+        
+    
+View Report
+    
+        
+            INS-2026-0039
+            5 Cedar Lane, House 3
+        
+        
+            Completed
+        
+    
+    
+        
+            House
+            •
+            2026-07-08
+            •
+            4 images
+        
+    
+    
+        
+            ● 0 Critical
+            ● 0 High
+            ● 1 Med
+            ● 1 Low
+        
+        
+            91/100
+        
+    
+View Report
+    ℹ️
+    This is the UI Foundation phase. AI, database, and business logic will be added in upcoming phases.
+
+  
+
